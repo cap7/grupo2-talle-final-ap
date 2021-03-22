@@ -1,0 +1,11 @@
+# grupo2-talle-final-ap
+
+Integrantes:
+
+·         CHRISTOPHER JOSEPH CARDENAS PACHECO
+
+·         ELISBET YESENIA QUISPE UMERES
+
+·         JUAN PABLO BARRIOS RIVERA
+
+·         JESSIE ESPERANZA ESPINOZA VELASQUEZ
