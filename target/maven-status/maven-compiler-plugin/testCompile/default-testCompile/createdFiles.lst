@@ -1,0 +1,15 @@
+pe\tpido\page\BienvenidaPage.class
+pe\tpido\page\RegistrarClientePage.class
+pe\tpido\driver\CrearDriver$1.class
+pe\tpido\cliente\registrar\RegistrarClienteTest.class
+pe\tpido\driver\CrearDriver$NavegadorWeb.class
+pe\tpido\pedido\registrar\RegistrarPedidoPasos.class
+pe\tpido\pedido\registrar\RegistrarPedidoTest.class
+pe\tpido\page\MantenimientoPedidoPage.class
+pe\tpido\page\RegistrarClientePage$1.class
+pe\tpido\driver\CrearDriver.class
+pe\tpido\menu\Menu.class
+pe\tpido\page\LoginPage.class
+pe\tpido\page\RegistrarPedidoPage.class
+pe\tpido\cliente\registrar\RegistrarClientePasos.class
+pe\tpido\page\RegistrarClientePage$2.class

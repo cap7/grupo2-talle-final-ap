@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Registrar Cliente Nuevo
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.085 s - in Registrar Cliente Nuevo

@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Registrar Cliente Nuevo","Registrar nuevo cliente flujo basico 1","SUCCESS","2021-03-21T22:29:01.331-05:00[America/Bogota]","0.0","5.92"
+"Registrar Cliente Nuevo","Registrar nuevo cliente flujo basico 2","SUCCESS","2021-03-21T22:29:07.252-05:00[America/Bogota]","0.0","4.63"
+"Registrar Cliente Nuevo","Registrar nuevo cliente flujo basico 3","SUCCESS","2021-03-21T22:29:11.888-05:00[America/Bogota]","0.0","5.09"
+"Registrar Cliente Nuevo","Registrar nuevo cliente flujo alternativo 1","SUCCESS","2021-03-21T22:29:16.985-05:00[America/Bogota]","0.0","4.73"
+"Registrar Cliente Nuevo","Registrar nuevo cliente flujo alternativo 2","SUCCESS","2021-03-21T22:29:21.716-05:00[America/Bogota]","0.0","4.56"
+"Registrar Pedido","Registrar Pedido flujo basico","SUCCESS","2021-03-21T22:29:27.953-05:00[America/Bogota]","0.0","10.31"
